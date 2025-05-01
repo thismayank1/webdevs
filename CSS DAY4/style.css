@@ -28,9 +28,11 @@ a{
     border: 2px solid black;
     display: inline-block;
 }
+
 #content{
     height: 450px;
 }
+
  footer{
     background-color: black;
     text-align: center;
